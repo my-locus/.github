@@ -1,5 +1,6 @@
-# Locus
+<img width="1235" height="338" alt="locus-banner" src="https://github.com/user-attachments/assets/15589f95-fee7-4d1b-a456-6227872294c8" />
 
+# Locus
 We help social groups and couples better decide where to go when they plan to go out.
 
 It’s like Yelp but the places shown have elements that everyone likes, even if they’re only acquainted with each other, or they know each other well.
